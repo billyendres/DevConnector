@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://billy123:billy123@cluster0-b7boo.mongodb.net/test?retryWrites=true",
+  "mongoURI": "mongodb+srv://billy123:billy123@cluster0-e0xgk.mongodb.net/test?retryWrites=true",
   "jwtSecret": "mysecrettoken",
   "githubClientId": "8591d0c95e43dcdaab5a",
   "githubSecret": "582f97feb03087785e9320d54389cbb577252de6"
